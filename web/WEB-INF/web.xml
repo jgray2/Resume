@@ -7,6 +7,5 @@
     </session-config>
     <welcome-file-list>
         <welcome-file>resume.html</welcome-file>
-        <welcome-file>WEB-INF/resume.html</welcome-file>
     </welcome-file-list>
 </web-app>
